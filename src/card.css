@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+.card-container{
+    padding: 1%;
+    margin: 1%;
+    border:3px dashed rgb(126, 128, 0);
+}
+
+a{
+    text-decoration: none;
+}
+
